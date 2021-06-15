@@ -1,6 +1,7 @@
 # Routine
-This code is still in development stage. 
-I am trying to build an application that stores few details about user's daily routine.
-I have used Tkinter libary and SQL for this application. 
-Current code when executed, opens tkinter window with ADD,SEARCH, DELETE, SHOWALL Buttons.
-User can add data and view all of the stored data in Database.
+This is a standlone application which will stored users daily routine.
+In this application, we have frontend, backend and Database setup.
+User can add data, view the data present in Database, delete and search data.
+
+
+
